@@ -12,6 +12,19 @@
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raihanbiswas2006&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=raihanbiswas2006&theme=transparent&hide_border=false" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanbiswas2006&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160"/>
+</p>
+
+---
+
 ## 🌐 Connect with Me 
 <p align="left">
 <a href="https://linkedin.com/in/raihan-biswas-4a7729350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raihan-biswas-4a7729350" height="30" width="40" /></a>
@@ -55,17 +68,6 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
 
 ---
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raihanbiswas2006&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" height="160"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=raihanbiswas2006&theme=transparent&hide_border=false" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanbiswas2006&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160"/>
-</p>
 
 
 <!--
