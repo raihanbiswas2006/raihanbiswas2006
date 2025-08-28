@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanbiswas2006&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanbiswas2006&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160"/>
 </p>
 
 ---
@@ -74,7 +74,8 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
 
 ---
-
+<!--## 📈 Contribution Graph
+[![Raihan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raihanbiswas2006&theme=react-dark)](https://github.com/raihanbiswas2006)-->
 
 <!--
 **raihanbiswas2006/raihanbiswas2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
